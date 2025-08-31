@@ -1,0 +1,3 @@
+create a website for a giftshop with name callhiroe-gifts with landing page, about us , products, client testimonials and contact us . The products page will be devided in 3 main categories. So in the main menu the products will have a dropdown with 3 subcategories.
+Each category in the products will feature images with a short text arranged using isotope or masonry since the images are or irregular shape.
+the main color of the website is #698462 , will be mobile friendly. In the landing page we would like to have picture carousel.
